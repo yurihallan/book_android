@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Book</string>
+    <string name="txtBemVindo">Bem Vindo ao Device Automation</string>
+    <string name="txtGaleria">Galeria</string>
+    <string name="txtProjeto">Nome do Projeto: </string>
+    <string name="txtCliente">Nome do Cliente: </string>
+    <string name="txtEndereco">Endereço:</string>
+    <string name="txtBtnAdicionar">Adicionar</string>
+    <string name="txtBtnSalvar">Salvar</string>
+    <string name="txtBtnDeletar">Excluir</string>
+    <string name="txtxBtnProximo">Próximo</string>
+    <string name="txtDowload">Dowload Scenario</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/update_button"
+        android:icon="@drawable/ic_check"
+        app:showAsAction="always"
+        android:title="Alterar" />
+    <item
+        android:id="@+id/delete"
+        android:title="@string/txtBtnDeletar"
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/choose_image_btn"
+        android:title="@string/txtGaleria"
+        android:icon="@drawable/ic_photo_librar"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/ItDownload"
+        android:title="@string/txtDowload"
+        android:icon="@drawable/ic_file_download"
+        app:showAsAction="withText"/>
+    </menu>
